@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682259220 source:c:\users\advik\documents\bhargav\try\main.cpp
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1676732504 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

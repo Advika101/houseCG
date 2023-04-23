@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682258359 source:c:\users\advik\documents\bhargav\house\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<math.h>
+	<string.h>
+
